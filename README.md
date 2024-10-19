@@ -1,14 +1,15 @@
 
-In this project, I conducted an in-depth analysis of sales data for a company in the fitness and supplements industry. The goal was to provide a comprehensive view of sales performance and deliver key insights through **KPIs** that enhance strategic decision-making. The analysis covered various aspects, including revenue, profitability, return analysis, and more.
-Key Achievements:
+In this project, I conducted an in-depth analysis of sales data for a company in the **fitness and supplements industry**. The goal was to provide a comprehensive view of sales performance and deliver key insights through **KPIs** that enhance strategic decision-making. The analysis covered various aspects, including revenue, profitability, return analysis, and more.
 
-Data Extraction: Data was sourced directly from SQL Server using custom queries, allowing me to work with accurate, up-to-date data from multiple sources.
+### Key Achievements:
 
-- Data Cleaning: I used Power Query to clean and transform raw data, preparing it for analysis by merging tables and ensuring data consistency and accuracy.
+- **Data Extraction**: Data was sourced directly from **SQL Server** using custom queries, allowing me to work with accurate, up-to-date data from multiple sources.
 
-- Data Modeling: Implemented a star schema data model to optimize performance and simplify relationships between fact tables (e.g., sales) and dimension tables (e.g., customers, products). This model improved data relationships and facilitated efficient analysis.
+- **Data Cleaning**: I used **Power Query** to clean and transform raw data, preparing it for analysis by merging tables and ensuring data consistency and accuracy.
 
-- **Custom DAX Calculations**: Developed custom DAX measures to calculate important KPIs such as revenue, gross profit, customer counts, order quantities, and more. These measures enabled deeper insights into financial performance and trends.
+- **Data Modeling**: Implemented a star schema data model to optimize performance and simplify relationships between fact tables (e.g., sales) and dimension tables (e.g., customers, products). This model improved data relationships and facilitated efficient analysis.
+
+- **Custom DAX Calculations**: Developed custom **DAX** measures to calculate important KPIs such as revenue, gross profit, customer counts, order quantities, and more. These measures enabled deeper insights into financial performance and trends.
 
 ### Key Areas of Analysis:
 
@@ -29,12 +30,3 @@ Data Extraction: Data was sourced directly from SQL Server using custom queries,
 ### Final Results:
 - This analysis provided the company with a comprehensive and accurate view of its current performance, highlighting areas for improvement.
 - Key insights included identifying the most profitable products, top-engaged customers, and best-performing geographic areas, empowering the company to make more informed, data-driven decisions.
-
-**A special thanks to Eng. Mohamed Abdel Aty for his support throughout this project**. 🙏
-
-**You can check out the full project on GitHub:**
-[GitHub Repository Link](https://lnkd.in/gMMvUFTy)
-
-Looking forward to hearing your thoughts and feedback on this project! 😊
-
-#DataAnalysis #SalesAnalysis #PowerBI #SQL #DAX #Dashboard #BusinessIntelligence #ETL #CustomerInsights #ProductAnalysis #PerformanceMetrics #Excel #BI #FinancialAnalysis #DataDriven #ContinuousLearning #RevenueAnalysis #DataAnalytics
